@@ -1,3 +1,8 @@
 Cambio en development
 Otro cambio en dev
 Linea dev y testing resuelta mediante editar el mensaje de conflicto en el archivo
+
+funcion imprimir_usuario()
+{
+	codigo para imprimir nombre
+}
