@@ -5,6 +5,9 @@ Linea dev y testing resuelta mediante editar el mensaje de conflicto en el archi
 funcion imprimir_dev()
 {
 	codigo para imprimir el dev
+	codigo para imprimir el dev
+	codigo para imprimir el dev
+	codigo para imprimir el dev
 }
 
 funcion imprimir_usuario()
@@ -18,4 +21,5 @@ funcion imprimir_testing()
 	codigo para imprimir el testing
 	codigo para imprimir el testing
 	codigo para imprimir el testing
+
 }
