@@ -11,3 +11,8 @@ funcion imprimir_usuario()
 {
 	codigo para imprimir nombre
 }
+
+funcion imprimir_testing()
+{
+	codigo para imprimir el testing
+}
